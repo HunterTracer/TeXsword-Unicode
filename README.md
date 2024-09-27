@@ -10,7 +10,7 @@ TeXsword-Unicode is a macro package for Microsoft Word that **allows one can use
 
 ## Testing
 
-You can use the following code to test whether TeXsword is OK.
+You can use the following code to test whether TeXsword-Unicode is OK.
 
 ```
 \documentclass{article}
