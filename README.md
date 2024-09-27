@@ -1,6 +1,6 @@
 # TeXsword-Unicode
 
-TeXsword-Unicode is a macro package for Microsoft Word that **allows one can use Unicode Characters in TeXsword (such as Greek letters, Chinese characters, etc.)** and use LaTeX in Microsoft Word. The original version of TeXsword can be found at https://sourceforge.net/projects/texsword/.
+TeXsword-Unicode is a macro package for Microsoft Word that **allows one can use Unicode Characters in TeXsword (such as Chinese characters, etc.)** and use LaTeX in Microsoft Word. The original version of TeXsword can be found at https://sourceforge.net/projects/texsword/.
 
 ## Installation
 
