@@ -21,7 +21,7 @@ You can use the following code to test whether TeXsword is OK.
 	这是一些文字。
 	
 	\section{关于数学部分}
-	数学、中英文皆可以混排。You can intersperse math, Chinese and English (Latin script) without adding extra environments.
+	数学、中英文皆可以混排。You can intersperse math, Chinese and English (Latin script) without adding extra environments, such as $E = mc^2$. 
 	
 	這是繁體中文。
 \end{document}
